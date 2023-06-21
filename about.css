@@ -1,0 +1,25 @@
+.image{
+    width: 300px;
+    height:350px;
+    float: left;
+    padding-right: 20px;
+   
+}
+.sidebyside{
+    width:85%;
+    margin:12px;
+
+}
+p{
+    color:brown;
+}
+#box1, #box2,#box3{
+	margin:10px;
+	border-radius: 10%;
+    background-color:white;
+    width:250px;
+    height:150px;
+    float: left;
+  width: 28%;
+  padding: 15px;
+}

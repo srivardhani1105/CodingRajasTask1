@@ -1,0 +1,26 @@
+progress{
+    height:40px;
+    width:500px;
+    
+}
+.prog{
+    float:left;
+    padding-left: 30px;
+}
+
+#h2{
+    color:brown;
+}
+.box{
+    background-color: white;
+   float: right;
+    width:550px;
+    height:300px;
+   margin:15px;
+    border-radius: 20%;
+   
+}
+.list{
+    font-size:20px;
+    padding-left: 150px;
+}

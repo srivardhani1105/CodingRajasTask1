@@ -1,0 +1,42 @@
+.box1,.box2,.box3,.box4{
+    background-color: white;
+    width:520px;
+    height:300px;
+    margin:10px;
+    float:left;
+    border-radius:10%;
+    padding:10px;
+}
+img{
+    width:100px;
+    height:100px;
+}
+#head{
+    float:right;
+    padding-right: 100px;
+}
+#button{
+    height:30px;
+    width:100px;
+    background-color: orange;
+    border-radius: 10%;
+}
+#head1{
+    float:right;
+   padding-right: 10px;
+}
+.box5{
+    background-color: white;
+    width:600px;
+    height:300px;
+  
+   padding-left: 200px;
+
+    border-radius:10%;
+    padding:15px;
+
+}
+#head2{
+    float:right;
+    padding-right:130px;
+}
